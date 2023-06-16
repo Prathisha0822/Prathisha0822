@@ -13,10 +13,10 @@ Pursuing Bachelor of Computer Science from Sathyabama University, Got some cool 
 <!-- - 🔭 I’m currently working on ... -->
 <h3>More About Me</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Selenium**
 - 👯 I’m looking to collaborate on **Open source**
 - 🤔 I’m looking for help with **Python**
-- 💬 Ask me about **Java Script**
+- 💬 Ask me about **UI/UX**
 - 📫 How to reach me: **prathishak08@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Computers use a language called binary that consists of 1s and 0s, which can be confusing to humans but thankfully, coding languages help make it easier**
