@@ -1,116 +1,89 @@
-```md
 <h1 align="center">Hi 👋, I'm Kalki Prathisha K</h1>
+
 <h3 align="center">
-AI/ML Engineer | SDET | Building Intelligent Systems with Python, NLP & Generative AI
+AI Engineer | Intelligent Automation | Scalable Data & AI Systems
 </h3>
 
 ---
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I am an AI-focused Software Development Engineer in Test (SDET) with 2+ years of experience in building scalable automation frameworks, intelligent workflows, and data-driven systems. My work spans across Machine Learning, Deep Learning, NLP, Retrieval-Augmented Generation (RAG), ETL pipelines, and AI-powered automation solutions.
+Technology-driven engineering professional with 2+ years of experience delivering innovation-focused solutions across Artificial Intelligence, intelligent automation, data engineering, and scalable software systems.
 
-I am passionate about building production-ready AI systems that combine software engineering, automation, data intelligence, and modern Generative AI capabilities.
+Experienced in building AI-powered workflows, automation platforms, data processing pipelines, and intelligent orchestration systems using modern engineering practices. Strong exposure to Machine Learning, NLP, Generative AI, Retrieval-Augmented Generation (RAG), analytics, and automation-driven solution engineering.
 
-Currently, I am actively transitioning toward full-time AI/ML Engineering roles and focusing on real-world AI applications including Agentic AI Systems, NLP pipelines, intelligent automation, and data analytics platforms.
-
----
-
-## 💡 What I’m Working On
-
-- 🤖 Building AI-powered Agentic Systems and Automation Workflows
-- 🧠 Exploring Machine Learning, Deep Learning & NLP applications
-- 📊 Developing EDA and ETL pipelines using Python & Pandas
-- 🔍 Working on Retrieval-Augmented Generation (RAG) based systems
-- ⚡ Creating interactive AI dashboards using Streamlit & Power BI
-- 🧪 Enhancing scalable test automation frameworks with AI integration
-- ☁️ Learning production-grade AI deployment and scalable architectures
+Contributed to engineering innovation initiatives focused on improving scalability, workflow efficiency, intelligent automation, and data-driven decision-making across enterprise environments.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Expertise
 
-### 👨‍💻 Languages
-- Python
-- Java
-- SQL
+- Artificial Intelligence
+- Machine Learning & Deep Learning
+- NLP & Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Intelligent Automation
+- ETL & Data Engineering
+- Analytics & Visualization
+- Scalable AI Applications
 
-### 🤖 AI / ML / Data Science
+---
+
+## ⚒️ Technology Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+</p>
+
+### AI / Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
 - Machine Learning
 - Deep Learning
 - NLP
 - Generative AI
 - RAG
+- Pandas
 - EDA
 - ETL Pipelines
-- Pandas
 - Streamlit
 
-### 🧪 Automation & Testing
+### Automation & Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,git" />
+</p>
+
 - Selenium WebDriver
 - Robot Framework
 - Cucumber BDD
 - Gherkin
-- Automation Framework Design
-
-### 📊 Analytics & Visualization
-- Power BI
-- Tableau
-
-### ⚙️ Tools & Platforms
-- Git
 - Jira
 - Azure DevOps
 - Agile Methodologies
 
----
-
-## 🌱 Current Focus
-
-- Agentic AI Systems
-- Generative AI Applications
-- Production-grade AI Engineering
-- Intelligent Automation
-- NLP & LLM-based Systems
-- AI-driven Testing Solutions
+### Analytics & Visualization
+- Power BI
+- Tableau
 
 ---
 
-## 🤝 Open to Collaborate On
-
-- AI/ML Projects
-- Open Source AI Tools
-- NLP & RAG Applications
-- Intelligent Automation Platforms
-- Data Engineering & Analytics Projects
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/kalki-prathisha-k/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 </p>
 
-📧 Email: **prathishak08@gmail.com**
+📧 **prathishak08@gmail.com**
 
 ---
 
-## 📈 GitHub Stats
+## ⚡ Engineering Focus
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Prathisha0822&show_icons=true&theme=tokyonight" alt="github-stats" />
-</p>
+Focused on building intelligent, scalable, and automation-driven systems by combining AI, data engineering, analytics, and modern software engineering practices.
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prathisha0822&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-I enjoy building systems where AI, automation, and software engineering come together to solve real-world problems efficiently.
-```
