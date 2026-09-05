@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalki Prathisha K</h1>
 
 <h3 align="center">
-AI Engineer | Intelligent Automation | Scalable Data & AI Systems
+AI/ML Engineer | Intelligent Automation | Scalable Data & AI Systems
 </h3>
 
 ---
