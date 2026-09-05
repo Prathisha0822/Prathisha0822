@@ -34,7 +34,7 @@ Contributed to engineering innovation initiatives focused on improving scalabili
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 ### AI / Data Engineering
